@@ -1,0 +1,17 @@
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Data.deps.json
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Data.runtimeconfig.json
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Data.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Data.pdb
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Core.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\bin\Debug\net6.0\AlexToFood.Core.pdb
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.AssemblyInfo.cs
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.csproj.CopyComplete
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\refint\AlexToFood.Data.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.pdb
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\AlexToFood.Data.genruntimeconfig.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Data\obj\Debug\net6.0\ref\AlexToFood.Data.dll

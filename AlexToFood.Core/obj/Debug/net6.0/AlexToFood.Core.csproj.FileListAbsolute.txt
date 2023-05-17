@@ -1,0 +1,12 @@
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\bin\Debug\net6.0\AlexToFood.Core.deps.json
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\bin\Debug\net6.0\AlexToFood.Core.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\bin\Debug\net6.0\AlexToFood.Core.pdb
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.AssemblyInfo.cs
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\refint\AlexToFood.Core.dll
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\AlexToFood.Core.pdb
+C:\Users\alexi\source\repos\AlexToFood\AlexToFood.Core\obj\Debug\net6.0\ref\AlexToFood.Core.dll
